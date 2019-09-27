@@ -1,6 +1,8 @@
 Oh wow so I don't even need Blender to make videos to upload my music to Youtube, I can just pump these things out using ffmpeg!
 
-Example on ffmpeg's website:
+https://trac.ffmpeg.org/wiki/Slideshow
+
+Example on ffmpeg's website for this specific type of video:
 ``ffmpeg -loop 1 -i img.jpg -i audio.wav -c:v libx264 -c:a aac -b:a 192k -shortest out.mp4``
 
 JM's description of said example: ffmpeg, loop 1 image, -i image, -i audio, -c:v video codec, -c:a audio codec, -b:a audio bitrate, make the video as long as the audio, out.mp4 = filename output
