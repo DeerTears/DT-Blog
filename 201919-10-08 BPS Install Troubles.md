@@ -1,10 +1,10 @@
-##What is this you're writing?
+## What is this you're writing?
 
 Well, to help me learn how to get addon and future Python-related Blender scripts working on Windows, I tried making my process into a tutorial format. Things were actually going really well! My only problem has been activating the custom proxy script, and this is as far as I got before giving up after about 2 days of really trying to figure it out. I'll make a note of where the Tutorial is no longer guaranteed to help anything. I don't know what I'll do with this tutorial or where I'll put it, but maybe I'll come back to it once I learn more from documentation or just asking the right questions in the GDQuest Discord.
 
-##Blender Power Sequencer Tutorial:
+## Blender Power Sequencer Tutorial:
 
-###Table of Contents:
+### Table of Contents:
 
 A. Downloading and Installing BPS
 B. Reducing Blender's preview size
@@ -74,7 +74,7 @@ You're good to go! You should now be able to scrub through the video without an 
 
 BPS 1.3 or newer: Check this file: 
 
-##My notes in trying to figure out what went wrong:
+## My notes in trying to figure out what went wrong:
 
 ```C:\Users\Me\Documents\Blender\Videos Import\Barcelona Trip
 
